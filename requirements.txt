@@ -1,0 +1,5 @@
+The following libraries need to be installed in Python using pip:
+    requests
+    argparse
+
+The libraries json, datetime, collections, Counter, and os are all part of the Python Standard Library, which means they are included with every Python installation and do not need to be installed separately using pip.
